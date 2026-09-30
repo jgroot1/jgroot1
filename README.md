@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [DNA analyzer](https://github.com/jgroot1/DNA)
 
-- 🌱 I’m currently learning ***Bioinformatics***
+- 🌱 I’m currently learning ****Bioinformatics****
 
 - 🚀 my goal is to learn **AI/ML**
 
