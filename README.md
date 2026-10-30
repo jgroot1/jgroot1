@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm👋 jgroot</h1
 
-- 🔭 I’m currently working on: [DNA analyzer](https://github.com/jgroot1/DNA)
-
-- 🌱 I’m currently learning: **Bioinformatics**
+- 🔭 I’m currently working on: [BlackJack](https://github.com/jgroot1/BlackJack)
 
 - 🚀 my goal is to learn: **The AI/ML part of bioinformatics**
 
