@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on: [BlackJack](https://github.com/jgroot1/BlackJack)
 
 - 🚀 my goal is to learn: **The AI/ML part of bioinformatics**
-- 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jgroot1&hide_border=True&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=jgroot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,6 +13,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+- 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jgroot1&hide_border=True&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=jgroot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
+
 
 ###
 
