@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on: [BlackJack](https://github.com/jgroot1/BlackJack)
 
 - 🚀 my goal is to learn: **The AI/ML part of bioinformatics**
+- 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jgroot1&hide_border=True&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=jgroot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div data-importer="techs" align="left">
@@ -16,10 +19,4 @@
 ###
 
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=jgroot1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/jgroot1/jgroot1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/jgroot1/jgroot1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+[![GitHub Streak](https://streak-stats.demolab.com?user=jgroot1&theme=transparent&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
