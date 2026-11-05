@@ -14,6 +14,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+###
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jgroot1&theme=transparent&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+###
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jgroot1&hide_border=True&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=jgroot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
 
@@ -21,4 +26,3 @@
 ###
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jgroot1&theme=transparent&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
